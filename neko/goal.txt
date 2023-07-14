@@ -1,0 +1,13 @@
+1%36%190%Aller voir la police près de la Scène du Crime%
+<information>
+2%36%190%Aller voir la victime sur la Scène du Crime.%
+<information>
+3%42%190%Aller intérroger la voisine.%
+<information>
+4%41%190%Rendez-vous à la Poste.%
+<information>
+5%32%190%Aller chercher les lasagnes.%
+<information>
+6%38%190%Rapporter les lasagnes à Garfield.%
+<information>
+7%39%190%Aller dénoncer le coupable.%

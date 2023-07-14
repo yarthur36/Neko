@@ -1,0 +1,93 @@
+Main :
+crimeplace 4
+1=crime 2
+2=crimelab 2
+
+Boucherplace 4
+1=Boucher 2
+2=boucherlab 2
+
+Voisineplace 4
+1=Voisine 2
+2=Voisinelab 2
+
+Posteplace 4
+1=Poste 2
+2=Postelab 2
+
+Commissariat 4
+
+pnj
+1=position 4
+____________________________
+
+
+Crime :
+1=sortie 4
+2=spawn ext 2
+
+pnj 4
+
+_____________________________
+
+
+Voisine :
+1=sortie 4
+2=spawn ext 2
+
+pnj 4
+_____________________________
+
+Poste :
+1=sortie 4
+2=spawn ext 2
+
+pnj 4
+______________________________
+
+Boucher :
+1=sortie 4
+2=spawn ext 2
+
+pnj 4
+______________________________
+
+Crimelab :
+1=sortie 4
+______________________________
+Voisinelab :
+1=sortie 4
+______________________________
+
+Postelab :
+1=sortie 4
+
+______________________________
+Boucherlab :
+1=sortie 4
+
+______________________________
+
+
+Pour map 
+x min , x max, y min, y max, map départ, map arrivée, x, y
+
+
+
+Pour dialogue 
+x min, x max,y min,y max, map, investigation, dialogue 
+
+
+Pour goal
+
+investigation_goal,xinv,yinv,'phrase'
+
+
+
+
+
+
+
+
+
+
